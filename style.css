@@ -1,9 +1,9 @@
-ul {
+html body header nav ul {
   width: 100%;
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-li {
+nav ul li {
   display: inline-block;
 }
